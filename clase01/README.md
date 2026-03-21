@@ -8,7 +8,7 @@
 - Despistada (Airhead)
 - Trabajadora
 - Poco pudorosa
-- Estatura promedio
+- Autoconsciente
 - Extravagante
 - Creativa
 - Chistosa
