@@ -1,29 +1,29 @@
 ## Encargo 
 - Escoger dos objetos Sacar una foto y mencionar 10 cualidades de cada uno.
 
-Objeto 1 | 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+Objeto 1 | Jabonera con forma de tina.
+1. Está quebrada y ensamblada.
+2. Tiene dibujos de flores y mariposas.
+3. Aun no le quito la etiqueta.
+4. La utilizo para guardar pins.
+5. Tiene cuatro patas.
+6. Tiene un lado más alto que el otro.
+7. Es blanca por dentro.
+8. Hecha de porcelana.
+9. Tiene lineas doradas.
+10. No mide más de 15 centímetros.
 
-Objeto 2 | 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+Objeto 2 | Mando de PS3
+1. Es blanco.
+2. Tiene 15 botones.
+3. Tiene señal bluetooth.
+4. Tiene conector tipo mini usb.
+5. Está atornillado.
+6. Tiene un circuito.
+7. Tiene dos joycons.
+8. Tiene forma para agarrarlo con las dos manos.
+9. Tiene una etiqueta de modelo por detrás.
+10. Sus botones y detalles son negros.
 
 # Apuntes clase
 - Metáfora -> Cualidades no escenciales
