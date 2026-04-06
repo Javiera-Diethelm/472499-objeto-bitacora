@@ -1,3 +1,30 @@
+## Encargo 
+- Escoger dos objetos Sacar una foto y mencionar 10 cualidades de cada uno.
+
+Objeto 1 | 
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+Objeto 2 | 
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
 # Apuntes clase
 - Metáfora -> Cualidades no escenciales
 
