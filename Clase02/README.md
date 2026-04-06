@@ -13,6 +13,8 @@ Objeto 1 | Jabonera con forma de tina.
 9. Tiene lineas doradas.
 10. No mide más de 15 centímetros.
 
+![WhatsApp Image 2026-04-06 at 14 49 02](https://github.com/user-attachments/assets/4ce4b2c0-df03-4f8d-89e6-04c8ab8dfee9)
+
 Objeto 2 | Mando de PS3
 1. Es blanco.
 2. Tiene 15 botones.
@@ -24,6 +26,8 @@ Objeto 2 | Mando de PS3
 8. Tiene forma para agarrarlo con las dos manos.
 9. Tiene una etiqueta de modelo por detrás.
 10. Sus botones y detalles son negros.
+
+![WhatsApp Image 2026-04-06 at 14 49 01](https://github.com/user-attachments/assets/67bff8cc-72ad-43da-b229-f2bb8b60d1ab)
 
 # Apuntes clase
 - Metáfora -> Cualidades no escenciales
