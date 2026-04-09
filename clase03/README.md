@@ -1,8 +1,8 @@
 ## Apuntes clase
 Variables:
-int > Enteros
-Float > Decimales
-String > Palabras
+1. int > Enteros
+2. Float > Decimales
+3. String > Palabras
 
 ## Entrega próxima semana
 Nota compuesta por la entrega de bitácora junto con entrega de un anteproyecto.
