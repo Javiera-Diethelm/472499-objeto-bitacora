@@ -19,3 +19,40 @@ Mi sketch en processing va a ser un contador del total de números de datos que 
 Cada click va con un sonido integrado de pastillas en un frasco.
 
 (Link del chat con ChatGPT para el desarrollo del sketch: https://chatgpt.com/share/69e11776-2c84-83e9-8955-4d8f139353ff)
+
+```processing
+import processing.sound.*;
+
+int[] datos = {308, 310, 310, 313, 314, 316, 316, 317};
+int indice = 0;
+
+SoundFile sonido;
+
+void setup(){
+  size(650,650);
+  textAlign(CENTER, CENTER);
+  sonido = new SoundFile(this, "pastillas.wav");
+}
+
+void draw(){
+  background(0);
+  
+  int numero = indice + 1;
+  int tamano = datos[indice] / 2;
+  
+  fill(255);
+  textSize(tamano);
+  text(numero, width/2, height/2);
+}
+
+void mousePressed() {
+  sonido.stop();
+  sonido.play();
+  if (indice < datos.length - 1) {
+    indice++;
+  } else {
+    delay(300);
+    exit();
+  }
+}
+```
