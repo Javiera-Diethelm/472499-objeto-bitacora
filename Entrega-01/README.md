@@ -1,5 +1,4 @@
 ## Primera entrega
-### Javiera Diethelm Flores
 
 - Objeto de estudio: Frecuencia de la farmacia, número de atención.
 - Este objeto resuena conmigo porque todos los meses debo ir a comprar pastillas para mi trastorno y diagnóstico psiquiátrico, por lo que es algo que rutinariamente debo cumplir por mantenerme estable. Es medible la frecuencia en la que suenan los números y avanza la fila, ya que es una farmacia particular llamada “Farmacias liga chilena contra la epilepsia”, enfocada en poder llegar a más personas y ser más asequible en torno a los medicamentos y sus precios.
