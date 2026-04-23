@@ -21,3 +21,7 @@ operación reflexiva > Metáfora > Se hacerca a la escencia de cada objeto.
 - Metáfora: Combinar cualidades no escenciales de dos objetos.
 - La metáfora necesita distancia, o disimilitudes.
 - El 3er objeto es metaforico.
+
+**Próxima clase**
+- Respositorio ordenado 
+- Investigar sobre hambrehambrehambre.
