@@ -25,3 +25,4 @@ tiempo | metros de ola (m) | sonido de la ola (dB) | Temperatura (C°)
 | 00:50 | 2,7 m | 20 dB | 10° |
 | 01:00 | 1,9 m | 28 dB | 10° |
 
+.
