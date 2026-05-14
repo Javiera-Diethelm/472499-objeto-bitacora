@@ -16,3 +16,7 @@ Editorial casera de una especie de librillo, producido por uno mismo, de conteni
 -	Recorte y dimensionado de trozos de tela de las prendas.
 -	Bordado del recuerdo (Sea una imagen o un escrito).
 -	Unificación de las telas en un librillo.
+
+### Como se relaciona con el Museo Violeta Parra
+
+En el museo se encuentran obras de Arpillería realizadas por Violeta Parra, con técnica de bordado, esta técnica es asociada en gran parte a las comunidades de mujeres dentro de las culturas, dándole así un espacio a que la tradición asociada a la mujer se siga expandiendo y dando a conocer, dejando una huella para las nuevas y próximas generaciones.
