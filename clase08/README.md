@@ -1,0 +1,1 @@
+Fuimos al Museo Violeta Parra y estuvimos con el colectivo hambrehambrehambre viendo los Fanzines y discutiendo de ello.
